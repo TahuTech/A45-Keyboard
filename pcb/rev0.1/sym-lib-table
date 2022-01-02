@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name keebio)(type Legacy)(uri D:/Keyboard/A45/keyboard-parts/keebio-components/keebio.lib)(options "")(descr ""))
+  (lib (name tmk)(type Legacy)(uri D:/Keyboard/A45/keyboard-parts/kicad_lib_tmk/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name promicro)(type Legacy)(uri D:/Keyboard/A45/keyboard-parts/ProMicroKiCad/promicro_library/promicro.lib)(options "")(descr ""))
+  (lib (name yampad)(type Legacy)(uri "D:/Keyboard/Yampad/Original repo/yampad/pcb/yampad_v2-cache.lib")(options "")(descr ""))
+)
