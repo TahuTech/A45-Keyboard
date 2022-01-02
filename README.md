@@ -1,2 +1,7 @@
 # A45-Keyboard
-the cheap version tmo50 layout use pro micro 
+
+The Cheap Layout of TMO50
+
+- Use Pro Micro
+- Adjust On Bottom Row
+- Hotswap
