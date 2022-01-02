@@ -1,0 +1,5 @@
+- fix issue on schematic
+- upgrade hotswap footprint
+- fix routing on diode
+- better routing
+- add led for top macro cluster
