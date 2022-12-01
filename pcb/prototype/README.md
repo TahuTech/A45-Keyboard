@@ -1,3 +1,5 @@
 - bad routing
 - 2 diodes not connect on routing
 - schematic issue
+
+status : tested

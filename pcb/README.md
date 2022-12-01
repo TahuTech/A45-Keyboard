@@ -9,3 +9,5 @@ rev0.1
 - fix schematic issue
 - add reset button
 - add led on top left macro cluster
+
+status : not tested

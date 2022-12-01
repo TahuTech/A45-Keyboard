@@ -1,0 +1,4 @@
+routing ulang 
+fix footprint pcb
+fix routing jumper on d12, d13, d26 and d27
+change to hotswap footprint
